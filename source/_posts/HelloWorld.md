@@ -1,11 +1,11 @@
 ---
 title: 例行Hello World
-date: 2018-03-16 14:16:40
-updated: 2018-03-16 14:16:40
+date: 2018-03-16 00:00:00
+updated: 2018-03-16 00:00:00
 categories:
 - Blog
 tags:
-- 1
+- 记录
 ---
 
 
